@@ -1,0 +1,8 @@
+bin
+gen
+out
+proguard
+.settings
+.svn
+.DS_Store
+.apk
